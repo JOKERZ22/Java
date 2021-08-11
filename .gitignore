@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/.idea/
+/JavaEE/JavaEE.iml
+/JavaSE/JavaSE.iml
+/Spring/SpringBoot/SpringBoot.iml
+/Spring/SpringCloud/SpringCloud.iml
+/Spring/Spring.iml
+/Source/Source.iml
